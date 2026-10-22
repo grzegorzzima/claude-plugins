@@ -1,0 +1,6 @@
+{
+  "name": "adr-scribe",
+  "description": "Writes Architecture Decision Records into docs/adr from the current design discussion",
+  "version": "0.1.0",
+  "author": { "name": "Grzegorz" }
+}

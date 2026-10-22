@@ -1,0 +1,12 @@
+{
+  "name": "grzegorzzima-plugins",
+  "description": "Claude Code plugins for daily architecture and Azure work",
+  "owner": { "name": "Grzegorz" },
+  "plugins": [
+    {
+      "name": "adr-scribe",
+      "source": "./plugins/adr-scribe",
+      "description": "Writes Architecture Decision Records into docs/adr"
+    }
+  ]
+}
